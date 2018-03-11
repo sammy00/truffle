@@ -1,0 +1,6 @@
+
+# artifacts
+build/
+
+# node
+node_modules/
