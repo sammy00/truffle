@@ -4,7 +4,7 @@
 
 - [ ] Installation
 - [x] Creating a Project
-- [ ] Compiling Contracts
+- [x] Compiling Contracts
 
 ## WIP
 
